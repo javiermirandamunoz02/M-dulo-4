@@ -1,0 +1,5 @@
+1,Camiseta Algodón,ropa,19.9
+2,Pantalón Jean,ropa,39.99
+3,Audífonos Bluetooth,tecnologia,59.5
+4,Teclado Mecánico,tecnologia,85.0
+5,Lámpara de Escritorio,hogar,25.0
